@@ -1,4 +1,5 @@
 ## Extensive FastAPI with MongoDB
+![FastAPI-MongoDB-Logo](../assets/images/fastapi_mongodb_logo.webp)
 
 ### 1. FastAPI
 Since FastAPI uses [Starlette](https://www.starlette.io/) framework for the web requests, we have to install an [ASGI](https://asgi.readthedocs.io/en/latest/)(Asynchronous Server Gateway Interface) server as well
