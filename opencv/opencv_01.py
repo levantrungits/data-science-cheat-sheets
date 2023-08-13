@@ -18,7 +18,7 @@ try:
     0: cv2.IMREAD_GRAYSCALE
     1: cv2.IMREAD_UNCHANGED
     '''
-    img = cv.imread('../assets/images/Me_2023-07-24_DL.png', cv.IMREAD_GRAYSCALE)
+    img = cv.imread('../assets/images/Me_2023-07-24_DL.png', cv.IMREAD_GRAYSCALE)  # numpy.ndarray
     
     img = cv.resize(img, (0, 0), fx=0.5, fy=0.5)
     img = cv.rotate(img, cv.ROTATE_90_COUNTERCLOCKWISE)
