@@ -1,3 +1,5 @@
 pandas
 matplotlib
 pyarrow
+opencv-python
+opencv-python-headless

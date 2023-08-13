@@ -6,7 +6,6 @@ __pycache__/
 # Virtualenv
 venv/
 .vscode/
-data/
 
 # Project specific
 *.egg-info.egg-info/
@@ -42,4 +41,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
+*.csv
+*.tsv
+*.parquet

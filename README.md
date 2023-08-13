@@ -1,7 +1,7 @@
 ## Data Science Cheat Sheets (Career-Building)
 
 ### `I. Roadmap Overview`
-![DS-Roadmap Overview](DS-Roadmap.png)
+![DS-Roadmap Overview](assets/images/DS-Roadmap.png)
 
 1. [Python 3](https://mode.com/python-tutorial/python-basics/) (Lists, Dictionaries, Lambda, Methods, Functions...)
 2. [OOP in Python 3](https://www.tutorialspoint.com/python3/python_classes_objects.htm) (Object-Oriented Programming)
