@@ -1,7 +1,7 @@
 ## Extensive FastAPI with MongoDB
 
 ### 1. FastAPI
-(Since FastAPI uses [Starlette](https://www.starlette.io/) framework for the web requests, we have to install an ASGI server as well)
+Since FastAPI uses [Starlette](https://www.starlette.io/) framework for the web requests, we have to install an [ASGI](https://asgi.readthedocs.io/en/latest/)(Asynchronous Server Gateway Interface) server as well
 
 ```
 pip install uvicorn
