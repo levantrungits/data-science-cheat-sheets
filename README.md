@@ -24,7 +24,8 @@
 9. [FastAPI](https://fastapi.tiangolo.com/) (Web framework for building APIs with Python 3.7+)
 10. [Django](https://www.djangoproject.com/) (Python full-stack web framework )
 11. [Airflow](https://airflow.apache.org/) (Author, schedule and monitor workflows)
-12. 
+12. [Selenium](https://selenium-python.readthedocs.io/index.html) (Auto testing with Python)
+13. 
 
 ### `III. The Fields`
 1. Computer Vision
