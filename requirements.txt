@@ -7,3 +7,9 @@ opencv-python-headless
 
 fastapi[all]
 pymongo
+
+openai
+
+customtkinter
+tk
+

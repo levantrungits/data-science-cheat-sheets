@@ -22,3 +22,12 @@ class ItemSchema(BaseModel):
     count: int
     price: float
     category: Category
+
+
+class QueryArguments(BaseModel):
+    """ Representation of item query arguments in the system. """
+    
+
+class ItemArgumentResponse(BaseModel):
+    """ REpetitions of an argument query response in the system. """
+    
