@@ -3,11 +3,19 @@ from enum import Enum
 from typing import List, Optional
 
 # Third party modules
-from pydantic import BaseModel, UUID4
+from pydantic import BaseModel, Field, UUID4
+
+# Local modules
+from .apidocs.openapi_documentation import query_example, item_example
 
 
 # ------------------------------------------------------------------------
 #
+
+
+# ------------------------------------------------------------------------
+#
+
 
 class Category(str, Enum):
     """ Category of an item. """
